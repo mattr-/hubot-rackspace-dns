@@ -1,8 +1,6 @@
 # Hubot: hubot-rackspace-dns
 
-A hubot script that does the things
-
-See [`src/hello-world.coffee`](src/hello-world.coffee) for full documentation.
+A hubot script that integrates with Rackspace's DNS API
 
 ## Installation
 
@@ -28,6 +26,11 @@ Run `npm install`
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> hubot rackspace dns create www.example.com CNAME github.com
+hubot>> CNAME entry created for www.example.com pointing to github.com
 ```
+
+## TODO
+
+Implement all the things!
+
