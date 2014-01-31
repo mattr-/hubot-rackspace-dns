@@ -23,7 +23,8 @@
 
   "dependencies": {
     "coffee-script": "~1.6",
-    "hubot": "2.7.1"
+    "hubot": "2.7.1",
+    "pkgcloud": "~0.8"
   },
 
   "devDependencies": {
