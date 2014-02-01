@@ -22,7 +22,7 @@
   },
 
   "dependencies": {
-    "coffee-script": "~1.6"
+    "coffee-script": "~1.6",
     "hubot": "2.7.1"
   },
 
